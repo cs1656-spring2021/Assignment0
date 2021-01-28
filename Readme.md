@@ -36,7 +36,7 @@ For full points, we will consider the version submitted to Gradescope
 * 24 hours later (for submissions that are one day late / -5 points), and  
 * 48 hours after the first deadline (for submissions that are two days late / -15 points).
 
-Our assumption is that everybody will submit on the first deadline. If you want us to consider a late submission, you need to email us at `cs1656-staff@cs.pitt.edu`
+Our assumption is that everybody will submit on the first deadline. If you want us to consider a late submission, you need to email us at `xiaowei@pitt.edu` or `karageorgos@pitt.edu`
 
 ### Important notes about grading
 It is absolutely imperative that your python program:  
